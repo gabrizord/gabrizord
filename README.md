@@ -11,4 +11,5 @@
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) | ![Keycloak](https://img.shields.io/badge/Keycloak-000000?style=flat&logo=keycloak&logoColor=white) |
 | ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
 
-@Gz-Labs
+[`@GZLabs`](https://github.com/Gz-Labs)
+
