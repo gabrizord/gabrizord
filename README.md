@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabriel
 
-*I'm 25 years old and a fullstack developer.*
+*I'm 26 years old and a fullstack developer.*
 
 ## 🛠️ Skills
 
